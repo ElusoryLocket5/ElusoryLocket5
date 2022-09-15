@@ -22,5 +22,5 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1010154076106915870/1020003357827543181/Il_mio_progetto.jpg"/>
+  <img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/11/Arctic-Refuge-drilling-banner.jpg"/>
 </div>
