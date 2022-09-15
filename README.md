@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="100"/>
+  <img src="https://www.elubuilds.ga/images/profile/avatar.png" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/ekufallito">
