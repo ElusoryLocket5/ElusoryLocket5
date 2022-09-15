@@ -31,4 +31,4 @@
 
 - :zap: In my free time I like to sail
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=whit)
+- :mailbox:How to reach me: ![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=whit)
