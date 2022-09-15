@@ -22,5 +22,5 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://www.elubuilds.ga/images/projects/fotona.png" width="600" height="300"/>
+  <img src="https://www.elubuilds.ga/images/projects/fotona.png"/>
 </div>
