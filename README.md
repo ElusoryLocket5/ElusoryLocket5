@@ -15,9 +15,9 @@
 <div id="profile" align="center">
   <img src="https://komarev.com/ghpvc/?username=ElusoryLocket5&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="hi" align="center"
+<div id="hi" align="center">
   <h1>
     Hi!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
- </div>
+</div>
