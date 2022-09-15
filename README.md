@@ -24,6 +24,9 @@
 <div align="center">
   <img src="https://elubuilds.ga/banner.png"/>
 </div>
+---
+
+### :woman_technologist: About Me :
 
 - :telescope: I’m a Minecraft builder, but sometimes I like to code
 
