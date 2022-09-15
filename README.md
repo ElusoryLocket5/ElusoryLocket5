@@ -24,3 +24,11 @@
 <div align="center">
   <img src="https://elubuilds.ga/banner.png"/>
 </div>
+
+- :telescope: I’m a Minecraft builder, but sometimes I like to code
+
+- :seedling: Exploring world
+
+- :zap: In my free time I like to sail
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=whit)
