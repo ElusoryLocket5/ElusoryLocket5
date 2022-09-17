@@ -49,6 +49,4 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElusoryLocket5&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElusoryLocket5&layout=compact&theme=github-dark-blue)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElusoryLocket5&show_icons=true&theme=radical)
